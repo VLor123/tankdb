@@ -1,0 +1,5 @@
+com\VLor123\tankdb\models\Tank.class
+com\VLor123\tankdb\models\TankDto.class
+com\VLor123\tankdb\controllers\TanksController.class
+com\VLor123\tankdb\services\TanksRepository.class
+com\VLor123\tankdb\TankdbApplication.class
